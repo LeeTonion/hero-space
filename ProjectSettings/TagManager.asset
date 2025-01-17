@@ -4,13 +4,18 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - enemi
-  - gun
-  - gun_enemi
-  - toxic
   - energy
-  - qwe
+  - Undefined
+  - bulletenemy
+  - bulletplayer
   - dash
+  - qwe
+  - npc
+  - gun
+  - energypoint
+  - enemy
+  - poison
+  - Wall
   layers:
   - Default
   - TransparentFX
